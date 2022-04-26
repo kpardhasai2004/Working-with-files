@@ -1,4 +1,4 @@
-z=open("C:/Users/Hi/Desktop/Reading files/places.txt","r")
+z=open("C:/Users/Hi/Desktop/Reading files/places.txt","r") 
 # By using this you can access the file and read ("r") anything inside it .
 print(z.readable())
 #True
